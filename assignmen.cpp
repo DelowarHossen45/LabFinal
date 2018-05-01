@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-inr main()
+int main()
 {
 	
 }
