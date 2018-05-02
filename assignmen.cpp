@@ -8,8 +8,15 @@ void MUL()
 	cout<< var1*var2<<endl;
 
 }
+void sum(int a ,int b){
+	cout<<"Enter Two Intiger :";
+	cin>>a>>b;
+	cout<<"Sum = "<<a+b<endl;
+}
+
 inr main()
 {
 
 	MUL();
+  sum();
 }
