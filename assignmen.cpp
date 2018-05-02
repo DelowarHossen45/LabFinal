@@ -5,8 +5,7 @@ void sum(int a ,int b){
 	cin>>a>>b;
 	cout<<"Sum = "<<a+b<endl;
 }
-
-inr main()
+int main()
 {
     sum();
 	
