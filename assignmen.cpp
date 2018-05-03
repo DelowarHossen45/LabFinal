@@ -20,7 +20,7 @@ void sum(int a ,int b){
 	cout<<"Sum = "<<a+b<endl;
 }
 
-inr main()
+int main()
 {
 
 	MUL();
