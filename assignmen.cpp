@@ -9,7 +9,7 @@ void MUL()
 
 }
 void sum(int a ,int b){
-	cout<<"Enter Two Intiger :";
+	cout<<"Enter Two Intigers :";
 	cin>>a>>b;
 	cout<<"Sum = "<<a+b<endl;
 }
